@@ -1,0 +1,8 @@
+.terraform
+**/.terraform
+.DS_Store
+**/.DS_Store
+terraform.tfvars
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.tfstate.lock.info
